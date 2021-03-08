@@ -1,4 +1,4 @@
 # visit hosted site-
-https://heuristic-tesla-243bd5.netlify.app
+https://flamboyant-aryabhata-247c3b.netlify.app/
 
 # site is under development
